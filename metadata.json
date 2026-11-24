@@ -1,0 +1,8 @@
+{
+  "name": "HANA CCTV BANTEN - Pasang CCTV Bergaransi",
+  "description": "Jasa pemasangan, perawatan, dan integrasi sistem kamera keamanan CCTV profesional bergaransi resmi di seluruh wilayah Banten.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
